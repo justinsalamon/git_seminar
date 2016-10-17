@@ -4,4 +4,5 @@ Prints Hello World!
 '''
 
 print "What's up CUSP!!"
+print "What a nice day!"
 
